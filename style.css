@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+header{
+    display:flex;
+    align-items:center;
+    background-color: black;
+}
+
+#head_search{
+    justify-self: flex-end;
+}
+#head_bar{
+    justify-self: end;
+}
+#head_logo{
+    color:red;
+}
+iframe{
+    width:100%;
+}
